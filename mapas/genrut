@@ -1,0 +1,53 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan  4 17:02:00 2022
+
+@author: jj
+"""
+import xml.etree.ElementTree as ET
+import random
+
+SudEntrada=["gneE39","gneE110","gneE38","gneE111"]
+SudSalida=["gneE78","gneE109","gneE77","gneE112"]
+
+EsteSalida=["gneE109","gneE107","gneE67","gneE66"]
+EsteEntrada=["gneE110","gneE108","gneE80","gneE41"]
+
+OesteSalida=["gneE112","gneE74","gneE105","gneE104"]
+OesteEntrada=["gneE111","gneE35","gneE106","gneE83"]
+
+NorteSalida=["gneE104","gneE70","gneE69","gneE107"]
+NorteEntrada=["gneE83","gneE45","gneE44","gneE108"]
+TodosEntrada=NorteEntrada+EsteEntrada+OesteEntrada+SudEntrada
+TodosSalida=NorteSalida+EsteSalida+OesteSalida+SudSalida
+TodosEntrada=set(TodosEntrada)
+TodosSalida=set(TodosSalida)
+
+Entrada=set(NorteEntrada)
+nomentrada="NorteEntrada"
+Salida=set(SudSalida)
+nomsalida="SudSalida"
+nombre_config="/home/jj/Documents/tfm/da/trips.trips.xml"
+domcfg=ET.parse(nombre_config)
+rootcfg = domcfg.getroot()
+dic1={0:SudEntrada,1:NorteEntrada,2:EsteEntrada,3:OesteEntrada}
+dic2={0:SudSalida,1:NorteSalida,2:EsteSalida,3:OesteSalida}
+a=0
+v=rootcfg.findall('./trip')
+for i in v:
+    print(a)
+    a=i.get("id")
+    a=int(a)
+    if a%500==0:
+        Entrada=dic1[random.choice(range(4))]
+        print(Entrada)
+        Salida=dic2[random.choice(range(4))]
+    if random.random()<0.8:
+        fro=random.choice(Entrada)
+        dest=random.choice(Salida)
+    elif 2==2:
+        fro=random.choice(list(TodosEntrada-Entrada))
+        dest=random.choice(list((TodosSalida-Salida)))
+    i.set("from",str(fro))
+    i.set("to",str(dest))
