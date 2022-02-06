@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+       <net-file value="/home/jj/Documents/tfm/da/rutaexper.net.xml" />
+       <additional-files value="/home/jj/Documents/tfm/da/trips.trips.xml , /home/jj/Documents/tfm/da/mapas/programa.add.xml" />
+    </input>
+    <processing>
+	<ignore-route-errors value="true" />
+    </processing>
+
+</configuration>

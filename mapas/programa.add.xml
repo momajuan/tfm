@@ -1,0 +1,368 @@
+<additional><tlLogic id="gneJ11" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGrrrGGrrr" />
+        <phase duration="3" state="yyyrrryyrrr" />
+        <phase duration="42" state="rrrGGgrrGGG" />
+        <phase duration="3" state="rrryyyrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ11" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGrrrGGrrr" />
+        <phase duration="3" state="yyyrrryyrrr" />
+        <phase duration="32.0" state="rrrGGgrrGGG" />
+        <phase duration="3" state="rrryyyrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ11" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGrrrGGrrr" />
+        <phase duration="3" state="yyyrrryyrrr" />
+        <phase duration="52.0" state="rrrGGgrrGGG" />
+        <phase duration="3" state="rrryyyrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ12" type="static" programID="accion0" offset="0">
+        <phase duration="38" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="37" state="rrGggGGG" />
+        <phase duration="3" state="rryggyyy" />
+        <phase duration="6" state="rrGGGrrr" />
+        <phase duration="3" state="rryyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ12" type="static" programID="accion1" offset="0">
+        <phase duration="48.0" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="28.0" state="rrGggGGG" />
+        <phase duration="3" state="rryggyyy" />
+        <phase duration="6" state="rrGGGrrr" />
+        <phase duration="3" state="rryyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ12" type="static" programID="accion2" offset="0">
+        <phase duration="27.0" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="47.0" state="rrGggGGG" />
+        <phase duration="3" state="rryggyyy" />
+        <phase duration="6" state="rrGGGrrr" />
+        <phase duration="3" state="rryyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ13" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGgrrrGGGg" />
+        <phase duration="3" state="yyyyrrryyyy" />
+        <phase duration="42" state="rrrrGGGGrrr" />
+        <phase duration="3" state="rrrryyyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ13" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGgrrrGGGg" />
+        <phase duration="3" state="yyyyrrryyyy" />
+        <phase duration="32.0" state="rrrrGGGGrrr" />
+        <phase duration="3" state="rrrryyyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ13" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGgrrrGGGg" />
+        <phase duration="3" state="yyyyrrryyyy" />
+        <phase duration="52.0" state="rrrrGGGGrrr" />
+        <phase duration="3" state="rrrryyyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ14" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="42" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ14" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="32.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ14" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="52.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ17" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGGGgrr" />
+        <phase duration="3" state="yyyyyyrr" />
+        <phase duration="42" state="GrrrrrGG" />
+        <phase duration="3" state="yrrrrryy" />
+    </tlLogic>
+    <tlLogic id="gneJ17" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGGGgrr" />
+        <phase duration="3" state="yyyyyyrr" />
+        <phase duration="32.0" state="GrrrrrGG" />
+        <phase duration="3" state="yrrrrryy" />
+    </tlLogic>
+    <tlLogic id="gneJ17" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGGGgrr" />
+        <phase duration="3" state="yyyyyyrr" />
+        <phase duration="52.0" state="GrrrrrGG" />
+        <phase duration="3" state="yrrrrryy" />
+    </tlLogic>
+    <tlLogic id="gneJ18" type="static" programID="accion0" offset="0">
+        <phase duration="27" state="GGgrrGGGrrrr" />
+        <phase duration="3" state="yyyrryyyrrrr" />
+        <phase duration="27" state="rrrrrrrrGGGG" />
+        <phase duration="3" state="rrrrrrrryyyy" />
+        <phase duration="27" state="rrrGGGrrrrrr" />
+        <phase duration="3" state="rrryyyrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ18" type="static" programID="accion1" offset="0">
+        <phase duration="37.0" state="GGgrrGGGrrrr" />
+        <phase duration="3" state="yyyrryyyrrrr" />
+        <phase duration="22.0" state="rrrrrrrrGGGG" />
+        <phase duration="3" state="rrrrrrrryyyy" />
+        <phase duration="22.0" state="rrrGGGrrrrrr" />
+        <phase duration="3" state="rrryyyrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ18" type="static" programID="accion2" offset="0">
+        <phase duration="22.0" state="GGgrrGGGrrrr" />
+        <phase duration="3" state="yyyrryyyrrrr" />
+        <phase duration="37.0" state="rrrrrrrrGGGG" />
+        <phase duration="3" state="rrrrrrrryyyy" />
+        <phase duration="22.0" state="rrrGGGrrrrrr" />
+        <phase duration="3" state="rrryyyrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ18" type="static" programID="accion3" offset="0">
+        <phase duration="22.0" state="GGgrrGGGrrrr" />
+        <phase duration="3" state="yyyrryyyrrrr" />
+        <phase duration="22.0" state="rrrrrrrrGGGG" />
+        <phase duration="3" state="rrrrrrrryyyy" />
+        <phase duration="37.0" state="rrrGGGrrrrrr" />
+        <phase duration="3" state="rrryyyrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ19" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGgrrrGGGg" />
+        <phase duration="3" state="yyyyrrryyyy" />
+        <phase duration="42" state="rrrrGGGGrrr" />
+        <phase duration="3" state="rrrryyyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ19" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGgrrrGGGg" />
+        <phase duration="3" state="yyyyrrryyyy" />
+        <phase duration="32.0" state="rrrrGGGGrrr" />
+        <phase duration="3" state="rrrryyyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ19" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGgrrrGGGg" />
+        <phase duration="3" state="yyyyrrryyyy" />
+        <phase duration="52.0" state="rrrrGGGGrrr" />
+        <phase duration="3" state="rrrryyyyrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ2" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="rrrrGGGGGG" />
+        <phase duration="3" state="rrrryyyyyy" />
+        <phase duration="42" state="GGGGGrrrrr" />
+        <phase duration="3" state="yyyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ2" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="rrrrGGGGGG" />
+        <phase duration="3" state="rrrryyyyyy" />
+        <phase duration="32.0" state="GGGGGrrrrr" />
+        <phase duration="3" state="yyyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ2" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="rrrrGGGGGG" />
+        <phase duration="3" state="rrrryyyyyy" />
+        <phase duration="52.0" state="GGGGGrrrrr" />
+        <phase duration="3" state="yyyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ21" type="static" programID="accion0" offset="0">
+        <phase duration="27" state="rrrrGGGrr" />
+        <phase duration="3" state="rrrryyyrr" />
+        <phase duration="27" state="GGgGGrrrr" />
+        <phase duration="3" state="yyyyyrrrr" />
+        <phase duration="27" state="GrGrrrGGG" />
+        <phase duration="3" state="yryrrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ21" type="static" programID="accion1" offset="0">
+        <phase duration="37.0" state="rrrrGGGrr" />
+        <phase duration="3" state="rrrryyyrr" />
+        <phase duration="22.0" state="GGgGGrrrr" />
+        <phase duration="3" state="yyyyyrrrr" />
+        <phase duration="22.0" state="GrGrrrGGG" />
+        <phase duration="3" state="yryrrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ21" type="static" programID="accion2" offset="0">
+        <phase duration="22.0" state="rrrrGGGrr" />
+        <phase duration="3" state="rrrryyyrr" />
+        <phase duration="37.0" state="GGgGGrrrr" />
+        <phase duration="3" state="yyyyyrrrr" />
+        <phase duration="22.0" state="GrGrrrGGG" />
+        <phase duration="3" state="yryrrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ21" type="static" programID="accion3" offset="0">
+        <phase duration="22.0" state="rrrrGGGrr" />
+        <phase duration="3" state="rrrryyyrr" />
+        <phase duration="22.0" state="GGgGGrrrr" />
+        <phase duration="3" state="yyyyyrrrr" />
+        <phase duration="37.0" state="GrGrrrGGG" />
+        <phase duration="3" state="yryrrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ37" type="static" programID="accion0" offset="0">
+        <phase duration="27" state="GrGrrGGG" />
+        <phase duration="3" state="yryrryyy" />
+        <phase duration="27" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="27" state="rrGGGGGr" />
+        <phase duration="3" state="rryyyyyr" />
+    </tlLogic>
+    <tlLogic id="gneJ37" type="static" programID="accion1" offset="0">
+        <phase duration="37.0" state="GrGrrGGG" />
+        <phase duration="3" state="yryrryyy" />
+        <phase duration="22.0" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="22.0" state="rrGGGGGr" />
+        <phase duration="3" state="rryyyyyr" />
+    </tlLogic>
+    <tlLogic id="gneJ37" type="static" programID="accion2" offset="0">
+        <phase duration="22.0" state="GrGrrGGG" />
+        <phase duration="3" state="yryrryyy" />
+        <phase duration="37.0" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="22.0" state="rrGGGGGr" />
+        <phase duration="3" state="rryyyyyr" />
+    </tlLogic>
+    <tlLogic id="gneJ37" type="static" programID="accion3" offset="0">
+        <phase duration="22.0" state="GrGrrGGG" />
+        <phase duration="3" state="yryrryyy" />
+        <phase duration="22.0" state="GGGrrrrr" />
+        <phase duration="3" state="yyyrrrrr" />
+        <phase duration="37.0" state="rrGGGGGr" />
+        <phase duration="3" state="rryyyyyr" />
+    </tlLogic>
+    <tlLogic id="gneJ39" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="42" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ39" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="32.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ39" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="52.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ40" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="42" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ40" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="32.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ40" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="52.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ41" type="static" programID="accion0" offset="0">
+        <phase duration="27" state="GGGrrrrGGgrr" />
+        <phase duration="3" state="yyyrrrryyyrr" />
+        <phase duration="27" state="GrrrrrrrrrGG" />
+        <phase duration="3" state="yrrrrrrrrryy" />
+        <phase duration="27" state="rrrGGGGrrrrr" />
+        <phase duration="3" state="rrryyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ41" type="static" programID="accion1" offset="0">
+        <phase duration="37.0" state="GGGrrrrGGgrr" />
+        <phase duration="3" state="yyyrrrryyyrr" />
+        <phase duration="22.0" state="GrrrrrrrrrGG" />
+        <phase duration="3" state="yrrrrrrrrryy" />
+        <phase duration="22.0" state="rrrGGGGrrrrr" />
+        <phase duration="3" state="rrryyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ41" type="static" programID="accion2" offset="0">
+        <phase duration="22.0" state="GGGrrrrGGgrr" />
+        <phase duration="3" state="yyyrrrryyyrr" />
+        <phase duration="37.0" state="GrrrrrrrrrGG" />
+        <phase duration="3" state="yrrrrrrrrryy" />
+        <phase duration="22.0" state="rrrGGGGrrrrr" />
+        <phase duration="3" state="rrryyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ41" type="static" programID="accion3" offset="0">
+        <phase duration="22.0" state="GGGrrrrGGgrr" />
+        <phase duration="3" state="yyyrrrryyyrr" />
+        <phase duration="22.0" state="GrrrrrrrrrGG" />
+        <phase duration="3" state="yrrrrrrrrryy" />
+        <phase duration="37.0" state="rrrGGGGrrrrr" />
+        <phase duration="3" state="rrryyyyrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ5" type="static" programID="accion0" offset="0">
+        <phase duration="27" state="rrrrrGGGGrr" />
+        <phase duration="3" state="rrrrryyyyrr" />
+        <phase duration="27" state="rrGGGrrrrGG" />
+        <phase duration="3" state="rryyyrrrryy" />
+        <phase duration="27" state="GGGrrrrrrrr" />
+        <phase duration="3" state="yyyrrrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ5" type="static" programID="accion1" offset="0">
+        <phase duration="37.0" state="rrrrrGGGGrr" />
+        <phase duration="3" state="rrrrryyyyrr" />
+        <phase duration="22.0" state="rrGGGrrrrGG" />
+        <phase duration="3" state="rryyyrrrryy" />
+        <phase duration="22.0" state="GGGrrrrrrrr" />
+        <phase duration="3" state="yyyrrrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ5" type="static" programID="accion2" offset="0">
+        <phase duration="22.0" state="rrrrrGGGGrr" />
+        <phase duration="3" state="rrrrryyyyrr" />
+        <phase duration="37.0" state="rrGGGrrrrGG" />
+        <phase duration="3" state="rryyyrrrryy" />
+        <phase duration="22.0" state="GGGrrrrrrrr" />
+        <phase duration="3" state="yyyrrrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ5" type="static" programID="accion3" offset="0">
+        <phase duration="22.0" state="rrrrrGGGGrr" />
+        <phase duration="3" state="rrrrryyyyrr" />
+        <phase duration="22.0" state="rrGGGrrrrGG" />
+        <phase duration="3" state="rryyyrrrryy" />
+        <phase duration="37.0" state="GGGrrrrrrrr" />
+        <phase duration="3" state="yyyrrrrrrrr" />
+    </tlLogic>
+    <tlLogic id="gneJ6" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="42" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ6" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="32.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ6" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGrrr" />
+        <phase duration="3" state="yyyrrr" />
+        <phase duration="52.0" state="rrrGGG" />
+        <phase duration="3" state="rrryyy" />
+    </tlLogic>
+    <tlLogic id="gneJ9" type="static" programID="accion0" offset="0">
+        <phase duration="42" state="GGGgGGGgrrrr" />
+        <phase duration="3" state="yyyyyyyyrrrr" />
+        <phase duration="42" state="GrrrrrrrGGGG" />
+        <phase duration="3" state="yrrrrrrryyyy" />
+    </tlLogic>
+
+    <tlLogic id="gneJ9" type="static" programID="accion1" offset="0">
+        <phase duration="52.0" state="GGGgGGGgrrrr" />
+        <phase duration="3" state="yyyyyyyyrrrr" />
+        <phase duration="32.0" state="GrrrrrrrGGGG" />
+        <phase duration="3" state="yrrrrrrryyyy" />
+    </tlLogic>
+
+    <tlLogic id="gneJ9" type="static" programID="accion2" offset="0">
+        <phase duration="32.0" state="GGGgGGGgrrrr" />
+        <phase duration="3" state="yyyyyyyyrrrr" />
+        <phase duration="52.0" state="GrrrrrrrGGGG" />
+        <phase duration="3" state="yrrrrrrryyyy" />
+    </tlLogic>
+
+    </additional>
